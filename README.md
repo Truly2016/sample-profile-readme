@@ -1,4 +1,4 @@
-## 👏 Hi, I'm *Sabino Landaverde *
+## 👏 Hi, I'm Sabino Landaverde!
 ##  About Me
 I'm a UTSA student studying Cybersecurity and am interested in coding.
 ## ⚒️ Skills
